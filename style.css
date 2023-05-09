@@ -1,0 +1,49 @@
+body{
+    color: blue;
+
+}
+.emotion_name{
+    font-size: 40px;
+}
+.emoji{
+    font-size: 40px;
+}
+span{
+    font-size: 30px;
+}
+button{
+    border-radius: 50px !important;
+}
+#camera, #result{
+    width:310px;
+    height: 310px;
+    background-color: black;
+    border-radius: 20px;
+}
+.snapshot{
+    background-color: white;
+    width: 340px;
+    height: 430px;
+    padding: 10px;
+    border-radius:30px;
+    box-shadow: 5px 5px 5px 5px gray;
+}
+.heading{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 7px;
+}
+label{
+    font-size: 14px;
+    color:#ff00aa;
+    padding: 6px;
+    border-radius:10px;
+    background-color: white;
+}
+img{
+    border: 1px solid black;
+}
+#botao1{
+    background-color: #ff8800;
+    border-radius: 20px;
+}
